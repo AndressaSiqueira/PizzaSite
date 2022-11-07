@@ -1,0 +1,11 @@
+{
+	"name": "pizza",
+	"version": "1.0.0",
+	"description": "example function",
+	"main": "script.js",
+	"author": "Andressa Siqueira",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"
+	}
+}
